@@ -4,6 +4,9 @@
 
 A simple, responsive, and feature-rich To-Do List web application built using **HTML**, **CSS**, and **JavaScript**.
 
+
+
+
 ## 🚀 Features
 
 - ✅ Add new tasks
@@ -13,6 +16,9 @@ A simple, responsive, and feature-rich To-Do List web application built using **
 - 🔍 Filter tasks (All / Completed / Pending)
 - 💾 Data persistence using **localStorage**
 - 💡 Fully responsive and user-friendly design
+
+
+
 
 
 ## 📦 Tech Stack
@@ -28,6 +34,7 @@ A simple, responsive, and feature-rich To-Do List web application built using **
 ├── index.html      # Main HTML file
 ├── style.css       # Styling file
 └── script.js       # JavaScript logic
+
 
 
 
